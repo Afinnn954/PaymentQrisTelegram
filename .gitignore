@@ -1,0 +1,6 @@
+# Ignore environment config
+.env
+# Ignore Python cache
+__pycache__/
+# Ignore user data
+user.json

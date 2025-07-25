@@ -1,0 +1,4 @@
+python-telegram-bot
+python-dotenv
+Pillow
+qris-payment==1.1.3
