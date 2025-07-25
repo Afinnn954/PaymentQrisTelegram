@@ -34,6 +34,8 @@ QRIS_LOGO_PATH=./logo.png
 ## Credit
 - QRIS library by [AutoFTbot/Qris-OrderKuota](https://github.com/AutoFTbot/Qris-OrderKuota)
 
+## Setting QRIS
+- Tutorial Full [QRIS Payment Setting](https://github.com/AutoFTbot/Qris-OrderKuota/blob/main/README.py.md)
 ## Struktur File
 - `bot.py` : Main bot Telegram
 - `user.json` : Data user dan saldo
